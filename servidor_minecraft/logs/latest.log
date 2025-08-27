@@ -720,3 +720,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15:32:09] [Server thread/INFO]: minecraft:glow_squid
 [15:32:26] [Server thread/INFO]: minecraft:glow_squid
 [15:32:26] [Server thread/INFO]: chat.type.advancement.task
+[15:32:40] [Server thread/WARN]: IloveyouValeria moved too quickly! 7.3908732366192,-2.024424088213692,6.59915049318613
+[15:32:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3115ms or 62 ticks behind
+[15:32:44] [Server thread/INFO]: minecraft:glow_squid
+[15:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6216ms or 124 ticks behind
+[15:33:30] [Server thread/WARN]: IloveStiven_ moved too quickly! -9.035040451199052,0.12129684053917344,-4.448053001320318
+[15:33:32] [Server thread/INFO]: chat.type.advancement.task
+[15:36:29] [Server thread/INFO]: chat.type.advancement.task
+[15:37:55] [Server thread/WARN]: IloveStiven_ moved too quickly! 1.963623105895067,0.15233518685056424,9.985144637825442
+[15:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[15:40:57] [Server thread/INFO]: IloveyouValeria lost connection: dormir
+[15:40:57] [Server thread/INFO]: multiplayer.player.left
+[15:40:57] [Server thread/INFO]: chat.type.admin
+[15:40:57] [Server thread/WARN]: handleDisconnection() called twice
+[15:41:08] [Server thread/INFO]: IloveyouValeria[/127.43.129.237:43123] logged in with entity id 14137 at (899.0364512467504, 140.0, 1211.989522815246)
+[15:41:08] [Server thread/INFO]: multiplayer.player.joined
+[15:41:14] [Server thread/INFO]: minecraft:glow_squid
+[15:42:43] [Server thread/INFO]: chat.type.advancement.task
+[15:43:45] [Server thread/INFO]: minecraft:glow_squid
