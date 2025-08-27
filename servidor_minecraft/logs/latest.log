@@ -908,3 +908,17 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [16:53:52] [Server thread/INFO]: [Not Secure] chat.type.text
 [16:54:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
 [16:55:31] [Server thread/INFO]: minecraft:zombie
+[16:58:41] [Server thread/WARN]: IloveyouValeria moved too quickly! -5.698026412600484,0.5797359806380484,8.276306764699939
+[16:58:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
+[16:59:33] [Server thread/INFO]: minecraft:glow_squid
+[17:00:27] [Server thread/INFO]: chat.type.advancement.goal
+[17:00:31] [Server thread/INFO]: chat.type.advancement.task
+[17:01:24] [Server thread/INFO]: minecraft:horse
+[17:02:06] [Server thread/INFO]: IloveStiven_ lost connection: disconnect.timeout
+[17:02:06] [Server thread/INFO]: multiplayer.player.left
+[17:02:15] [ForkJoinPool.commonPool-worker-14/WARN]: Failed to fetch skin: not found
+[17:02:15] [Server thread/INFO]: IloveStiven_[/127.130.169.114:49273] logged in with entity id 77710 at (789.0791578170017, 127.0, 592.6456452727235)
+[17:02:15] [Server thread/INFO]: multiplayer.player.joined
+[17:03:13] [Server thread/INFO]: minecraft:skeleton
+[17:06:00] [Server thread/INFO]: IloveyouValeria lost connection: multiplayer.disconnect.generic
+[17:06:00] [Server thread/INFO]: multiplayer.player.left
