@@ -937,3 +937,15 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [17:15:44] [ForkJoinPool.commonPool-worker-18/WARN]: Failed to fetch skin: not found
 [17:15:44] [Server thread/INFO]: huevitoxdwe1[/127.26.250.37:40999] logged in with entity id 91555 at (263.5, 75.0, 37.5)
 [17:15:44] [Server thread/INFO]: multiplayer.player.joined
+[17:16:38] [Server thread/INFO]: chat.type.admin
+[17:16:54] [Server thread/INFO]: chat.type.advancement.task
+[17:17:27] [Server thread/INFO]: [Not Secure] chat.type.text
+[17:19:29] [Server thread/INFO]: huevitoxdwe1 lost connection: disconnect.timeout
+[17:19:29] [Server thread/INFO]: multiplayer.player.left
+[17:19:53] [ForkJoinPool.commonPool-worker-20/WARN]: Failed to fetch skin: not found
+[17:19:53] [Server thread/INFO]: huevitoxdwe1[/127.26.250.37:56033] logged in with entity id 96012 at (383.52925240245673, 95.1212968405392, 153.22677307908842)
+[17:19:53] [Server thread/INFO]: multiplayer.player.joined
+[17:22:26] [Server thread/INFO]: chat.type.admin
+[17:23:13] [Server thread/INFO]: chat.type.admin
+[17:23:17] [Server thread/INFO]: chat.type.admin
+[17:25:33] [Server thread/INFO]: chat.type.advancement.task
