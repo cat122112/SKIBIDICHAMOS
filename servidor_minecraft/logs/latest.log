@@ -738,3 +738,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15:41:14] [Server thread/INFO]: minecraft:glow_squid
 [15:42:43] [Server thread/INFO]: chat.type.advancement.task
 [15:43:45] [Server thread/INFO]: minecraft:glow_squid
+[15:44:45] [Server thread/INFO]: chat.type.advancement.task
+[15:44:58] [Server thread/INFO]: chat.type.admin
+[15:44:59] [Server thread/INFO]: chat.type.admin
+[15:44:59] [Server thread/INFO]: chat.type.admin
+[15:45:00] [Server thread/INFO]: chat.type.admin
+[15:45:01] [Server thread/INFO]: chat.type.admin
+[15:46:09] [Server thread/INFO]: chat.type.admin
+[15:46:15] [Server thread/INFO]: chat.type.admin
+[15:46:38] [Server thread/INFO]: chat.type.advancement.task
+[15:46:38] [Server thread/INFO]: chat.type.advancement.task
+[15:46:42] [Server thread/INFO]: chat.type.advancement.task
+[15:49:23] [Server thread/INFO]: death.attack.explosion.player
+[15:49:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[15:49:31] [Server thread/INFO]: chat.type.admin
+[15:49:55] [Server thread/INFO]: death.attack.explosion.player
+[15:50:00] [Server thread/INFO]: chat.type.admin
+[15:50:12] [Server thread/WARN]: IloveStiven_ moved wrongly!
+[15:50:49] [Server thread/INFO]: minecraft:glow_squid
+[15:51:07] [Server thread/INFO]: chat.type.advancement.task
+[15:53:02] [Server thread/INFO]: chat.type.admin
+[15:53:03] [Server thread/INFO]: chat.type.advancement.task
+[15:53:45] [Server thread/INFO]: death.attack.mob
+[15:54:26] [Server thread/INFO]: chat.type.admin
