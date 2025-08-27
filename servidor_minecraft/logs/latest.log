@@ -964,3 +964,12 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [17:41:26] [Server thread/INFO]: minecraft:glow_squid
 [17:44:36] [Server thread/INFO]: IloveStiven_ lost connection: multiplayer.disconnect.generic
 [17:44:36] [Server thread/INFO]: multiplayer.player.left
+[17:48:47] [Server thread/INFO]: death.fell.accident.generic
+[17:48:57] [Server thread/INFO]: chat.type.admin
+[17:49:42] [Server thread/INFO]: chat.type.admin
+[17:52:14] [Server thread/INFO]: minecraft:skeleton
+[17:52:20] [ForkJoinPool.commonPool-worker-22/WARN]: Failed to fetch skin: not found
+[17:52:21] [Server thread/INFO]: IloveStiven_[/127.130.169.114:34407] logged in with entity id 120105 at (783.1938938297991, 126.0, 592.284915070022)
+[17:52:21] [Server thread/INFO]: multiplayer.player.joined
+[17:52:46] [Server thread/INFO]: minecraft:glow_squid
+[17:52:57] [Server thread/INFO]: minecraft:glow_squid

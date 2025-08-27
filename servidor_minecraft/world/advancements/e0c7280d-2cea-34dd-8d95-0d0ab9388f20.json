@@ -2852,73 +2852,73 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:54:23 +0000"
     },
     "done": false
   },
@@ -2943,6 +2943,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-27 17:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-27 17:47:50 +0000"
     },
     "done": true
   },
@@ -2979,6 +2985,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-08-27 17:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-27 17:48:01 +0000"
     },
     "done": true
   },
@@ -3129,6 +3141,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-27 17:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-27 17:47:50 +0000"
     },
     "done": true
   },
