@@ -761,3 +761,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15:53:03] [Server thread/INFO]: chat.type.advancement.task
 [15:53:45] [Server thread/INFO]: death.attack.mob
 [15:54:26] [Server thread/INFO]: chat.type.admin
+[15:54:30] [Server thread/INFO]: chat.type.admin
+[15:54:32] [Server thread/INFO]: chat.type.admin
+[15:54:46] [Server thread/INFO]: chat.type.admin
+[15:54:51] [Server thread/INFO]: chat.type.admin
+[15:54:53] [Server thread/INFO]: chat.type.admin
+[15:55:33] [Server thread/INFO]: chat.type.admin
+[15:56:16] [Server thread/INFO]: chat.type.advancement.task
+[15:56:40] [Server thread/INFO]: minecraft:husk
+[15:57:35] [Server thread/INFO]: minecraft:piglin
+[15:58:02] [Server thread/INFO]: chat.type.advancement.task
+[16:02:26] [Server thread/INFO]: chat.type.advancement.task
+[16:04:34] [Server thread/INFO]: chat.type.advancement.task
