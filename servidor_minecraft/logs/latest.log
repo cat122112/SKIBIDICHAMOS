@@ -886,3 +886,12 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [16:22:50] [Server thread/INFO]: cat122112[/127.228.203.211:34345] logged in with entity id 39587 at (685.6947662988058, 81.0, 885.4322824370794)
 [16:22:50] [Server thread/INFO]: multiplayer.player.joined
 [16:23:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[16:29:36] [Server thread/INFO]: minecraft:glow_squid
+[16:29:57] [Server thread/INFO]: minecraft:glow_squid
+[16:31:51] [Server thread/INFO]: chat.type.admin
+[16:31:51] [Server thread/INFO]: IloveyouValeria lost connection: multiplayer.disconnect.kicked
+[16:31:51] [Server thread/INFO]: multiplayer.player.left
+[16:31:56] [Server thread/INFO]: IloveyouValeria[/127.43.129.237:43207] logged in with entity id 47539 at (779.6999999880791, 125.0, 593.3000000119209)
+[16:31:56] [Server thread/INFO]: multiplayer.player.joined
+[16:33:24] [Server thread/INFO]: chat.type.admin
+[16:33:33] [Server thread/INFO]: chat.type.advancement.task
