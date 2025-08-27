@@ -949,3 +949,12 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [17:23:13] [Server thread/INFO]: chat.type.admin
 [17:23:17] [Server thread/INFO]: chat.type.admin
 [17:25:33] [Server thread/INFO]: chat.type.advancement.task
+[17:28:32] [Server thread/INFO]: chat.type.advancement.task
+[17:30:18] [Server thread/INFO]: chat.type.admin
+[17:30:56] [Server thread/INFO]: minecraft:husk
+[17:31:04] [Server thread/INFO]: chat.type.advancement.task
+[17:34:00] [Server thread/INFO]: chat.type.admin
+[17:34:12] [Server thread/INFO]: minecraft:glow_squid
+[17:34:29] [Server thread/INFO]: chat.type.advancement.task
+[17:35:59] [Server thread/INFO]: death.attack.player
+[17:36:08] [Server thread/INFO]: chat.type.admin
