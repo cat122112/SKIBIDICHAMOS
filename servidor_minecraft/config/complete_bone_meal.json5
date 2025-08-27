@@ -1,0 +1,36 @@
+{
+	// If 'true', Cactuses will be Bone-Meal-able
+	"enableCactusBoneMeal": true,
+	// If 'true', Chorus Flowers will be Bone-Meal-able
+	"enableChorusFlowerBoneMeal": true,
+	// If 'true', Corals will be Bone-Meal-able
+	"enableCoralBoneMeal": true,
+	// If 'true', Dead Bushes will be Bone-Meal-able
+	"enableDeadBushBoneMeal": true,
+	// If 'true', Flowers will be Bone-Meal-able
+	"enableFlowerBoneMeal": true,
+	// If 'true', Hanging Roots will be Bone-Meal-able
+	"enableHangingRootsMeal": true,
+	// If 'true', Leaves will be Bone-Meal-able
+	"enableLeavesBoneMeal": true,
+	// If 'true', Lily Pads will be Bone-Meal-able
+	"enableLilyPadsBoneMeal": true,
+	// If 'true', Mycelium will be Bone-Meal-able
+	"enableMyceliumBoneMeal": true,
+	// If 'true', Nether Warts will be Bone-Meal-able
+	"enableNetherWartBoneMeal": true,
+	// If 'true', Nether Roots will be Bone-Meal-able
+	"enableRootsBoneMeal": true,
+	// If 'true', Sponge will be Bone-Meal-able
+	"enableSpongeBoneMeal": true,
+	// If 'true', Spore Blossoms will be Bone-Meal-able
+	"enableSporeBlossomsBoneMeal": true,
+	// If 'true', Nether Sprouts will be Bone-Meal-able
+	"enableSproutsBoneMeal": true,
+	// If 'true', Sugar Canes will be Bone-Meal-able
+	"enableSugarCaneBoneMeal": true,
+	// If 'true', Tall Plants will be Bone-Meal-able
+	"enableTallPlantsBoneMeal": true,
+	// If 'true', Vines will be Bone-Meal-able
+	"enableVineBoneMeal": true
+}
