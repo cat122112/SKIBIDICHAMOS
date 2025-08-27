@@ -922,3 +922,18 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [17:03:13] [Server thread/INFO]: minecraft:skeleton
 [17:06:00] [Server thread/INFO]: IloveyouValeria lost connection: multiplayer.disconnect.generic
 [17:06:00] [Server thread/INFO]: multiplayer.player.left
+[17:07:42] [Server thread/INFO]: minecraft:husk
+[17:07:58] [Server thread/INFO]: minecraft:glow_squid
+[17:08:00] [Server thread/INFO]: chat.type.advancement.goal
+[17:09:07] [Server thread/WARN]: IloveStiven_ moved too quickly! 8.02353390536723,-1.9642517098257741,-6.217910631197697
+[17:10:55] [Server thread/INFO]: naturalist:butterfly
+[17:12:51] [Server thread/INFO]: cat122112 lost connection: multiplayer.disconnect.generic
+[17:12:51] [Server thread/INFO]: multiplayer.player.left
+[17:13:14] [Server thread/INFO]: cat122112[/127.228.203.211:40157] logged in with entity id 90031 at (888.1780425067334, -22.0, 1514.6013856867019)
+[17:13:14] [Server thread/INFO]: multiplayer.player.joined
+[17:14:07] [Server thread/WARN]: IloveStiven_ moved too quickly! -9.633993988864859,-1.9642517098257741,2.136292075125027
+[17:14:07] [Server thread/WARN]: cat122112 moved too quickly! 0.5792840230205911,2.0554624345250474,-10.033758697194344
+[17:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3581ms or 71 ticks behind
+[17:15:44] [ForkJoinPool.commonPool-worker-18/WARN]: Failed to fetch skin: not found
+[17:15:44] [Server thread/INFO]: huevitoxdwe1[/127.26.250.37:40999] logged in with entity id 91555 at (263.5, 75.0, 37.5)
+[17:15:44] [Server thread/INFO]: multiplayer.player.joined
