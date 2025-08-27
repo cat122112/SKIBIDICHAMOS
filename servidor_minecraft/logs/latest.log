@@ -895,3 +895,11 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [16:31:56] [Server thread/INFO]: multiplayer.player.joined
 [16:33:24] [Server thread/INFO]: chat.type.admin
 [16:33:33] [Server thread/INFO]: chat.type.advancement.task
+[16:38:50] [Server thread/INFO]: minecraft:glow_squid
+[16:41:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[16:43:09] [Server thread/INFO]: chat.type.admin
+[16:43:09] [Server thread/INFO]: IloveStiven_ lost connection: multiplayer.disconnect.kicked
+[16:43:09] [Server thread/INFO]: multiplayer.player.left
+[16:43:19] [ForkJoinPool.commonPool-worker-12/WARN]: Failed to fetch skin: not found
+[16:43:19] [Server thread/INFO]: IloveStiven_[/127.130.169.114:38631] logged in with entity id 58122 at (792.155825830706, 128.5625, 579.6768002083259)
+[16:43:19] [Server thread/INFO]: multiplayer.player.joined
