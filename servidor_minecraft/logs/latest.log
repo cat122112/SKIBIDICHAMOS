@@ -773,3 +773,111 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15:58:02] [Server thread/INFO]: chat.type.advancement.task
 [16:02:26] [Server thread/INFO]: chat.type.advancement.task
 [16:04:34] [Server thread/INFO]: chat.type.advancement.task
+[16:05:25] [Server thread/INFO]: minecraft:glow_squid
+[16:05:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[16:05:42] [Server thread/INFO]: command.unknown.command
+[16:05:42] [Server thread/INFO]: msg adsacommand.context.here
+[16:06:06] [Server thread/INFO]: chat.type.admin
+[16:06:07] [Worker-Main-1/ERROR]: Couldn't load tag frozenlib:dont_emit_use_game_events as it is missing following references: deeperdarker:transmitter (from fabric)
+[16:06:07] [Server thread/INFO]: Intercepted tag results
+[16:06:09] [Server thread/WARN]: cat122112 moved too quickly! -6.692817935240782,0.12129684053920187,7.567550542913068
+[16:06:09] [Server thread/WARN]: IloveyouValeria moved too quickly! -1.7673690690088506,-0.1754232959521005,10.061755370338574
+[16:06:09] [Server thread/WARN]: IloveStiven_ moved too quickly! -6.145554592413987,-0.6319031399820005,8.028014017306987
+[16:06:09] [Server thread/INFO]: Generating Sawmill Recipes
+[16:06:09] [Server thread/INFO]: Generated Sawmill recipes in 34 milliseconds
+[16:06:09] [Server thread/INFO]: Loaded 9 recipes
+[16:06:09] [Server thread/ERROR]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: command.unknown.command at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: command.unknown.command at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[16:06:09] [Server thread/INFO]: Loaded 2810 advancements
+[16:06:09] [Server thread/INFO]: Loading exposure lenses:
+[16:06:09] [Server thread/INFO]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
+[16:06:09] [Server thread/INFO]: [REI] ----------------------------------------
+[16:06:09] [Server thread/INFO]: [REI] REIPlugin starting main-reload for START.
+[16:06:09] [Server thread/INFO]: [REI] Plugins (5):
+[16:06:09] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) REIServerCompat of REIServerCompat [sophisticatedcore]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) REIServerCompat of REIServerCompat [sophisticatedbackpacks]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[16:06:09] [Server thread/INFO]: [REI] ----------------------------------------
+[16:06:09] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[16:06:09] [Server thread/INFO]: [REI] REIServerPlugin starting main-reload for START.
+[16:06:09] [Server thread/INFO]: [REI] Plugins (5):
+[16:06:09] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) REIServerCompat of REIServerCompat [sophisticatedcore]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) REIServerCompat of REIServerCompat [sophisticatedbackpacks]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[16:06:09] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[16:06:09] [Server thread/INFO]: [REI] REIPlugin finished post-reload for START in 1.245 ms, totaling 8.285 ms.
+[16:06:09] [Server thread/INFO]: [REI] REIServerPlugin finished post-reload for START in 402.4 μs, totaling 3.658 ms.
+[16:06:09] [Server thread/INFO]: [REI] ========================================
+[16:06:09] [Server thread/INFO]: [REI] REIPlugin starting main-reload for END.
+[16:06:09] [Server thread/INFO]: [REI] Plugins (5):
+[16:06:09] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) REIServerCompat of REIServerCompat [sophisticatedcore]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) REIServerCompat of REIServerCompat [sophisticatedbackpacks]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[16:06:09] [Server thread/INFO]: [REI] ========================================
+[16:06:09] [Server thread/INFO]: [REI] ----------------------------------------
+[16:06:09] [Server thread/INFO]: [REI] REIServerPlugin starting main-reload for END.
+[16:06:09] [Server thread/INFO]: [REI] Plugins (5):
+[16:06:09] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) REIServerCompat of REIServerCompat [sophisticatedcore]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) REIServerCompat of REIServerCompat [sophisticatedbackpacks]
+[16:06:09] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[16:06:09] [Server thread/INFO]: [REI] ----------------------------------------
+[16:06:09] [Server thread/INFO]: [REI] REIPlugin finished post-reload for END in 797.2 μs, totaling 6.309 ms.
+[16:06:09] [Server thread/INFO]: [REI] REIServerPlugin finished post-reload for END in 546.7 μs, totaling 3.347 ms.
+[16:06:09] [ForkJoinPool.commonPool-worker-7/INFO]: Loaded 58 translation keys
+[16:06:10] [Server thread/INFO]: Applied 12 data villager trades
+[16:06:10] [Server thread/INFO]: Sending reload packet to clients
+[16:06:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31593ms or 631 ticks behind
+[16:06:27] [Server thread/INFO]: cat122112 lost connection: multiplayer.disconnect.generic
+[16:06:27] [Server thread/INFO]: multiplayer.player.left
+[16:09:52] [Server thread/INFO]: minecraft:glow_squid
+[16:12:03] [Server thread/INFO]: minecraft:vindicator
+[16:13:28] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@16ce0007, suppressing error
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at com.branders.spawnermod.event.EventHandler.getSpawnEgg(EventHandler.java:203) ~[spawnermod-1.20.1-1.2.6+Fabric.jar:?]
+	at com.branders.spawnermod.event.EventHandler.dropMonsterEgg(EventHandler.java:157) ~[spawnermod-1.20.1-1.2.6+Fabric.jar:?]
+	at com.branders.spawnermod.event.EventHandler.onBlockInteract(EventHandler.java:117) ~[spawnermod-1.20.1-1.2.6+Fabric.jar:?]
+	at net.fabricmc.fabric.api.event.player.UseBlockCallback.lambda$static$0(UseBlockCallback.java:41) ~[fabric-events-interaction-v0-0.62+1802ada577-afa034351e41ee8.jar:?]
+	at net.minecraft.class_3225.handler$ble000$fabric-events-interaction-v0$interactBlock(class_3225.java:2087) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3225.method_14262(class_3225.java) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12046(class_3244.java:1140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_12547(class_2885.java:34) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_11054(class_2885.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:10818) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16:13:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
+[16:14:13] [Server thread/INFO]: minecraft:pillager
+[16:14:13] [Server thread/INFO]: chat.type.advancement.task
