@@ -554,6 +554,7 @@
       "minecraft:pillager": "2025-08-26 22:09:01 +0000",
       "minecraft:skeleton": "2025-08-26 22:27:51 +0000",
       "minecraft:piglin_brute": "2025-08-27 15:52:36 +0000",
+      "minecraft:creeper": "2025-08-27 17:39:04 +0000",
       "minecraft:wither_skeleton": "2025-08-27 15:43:45 +0000",
       "minecraft:husk": "2025-08-26 22:28:24 +0000",
       "minecraft:cave_spider": "2025-08-26 22:01:49 +0000",
@@ -2851,74 +2852,73 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-08-27 17:34:37 +0000",
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-27 17:34:23 +0000"
+      "log_spam_fixer": "2025-08-27 17:44:23 +0000"
     },
     "done": false
   },
@@ -2949,6 +2949,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2025-08-27 17:18:17 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/hang_glider": {
+    "criteria": {
+      "has_glider_framework": "2025-08-27 17:44:28 +0000"
     },
     "done": true
   },
@@ -3087,6 +3093,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-27 17:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-27 17:40:04 +0000"
     },
     "done": true
   },

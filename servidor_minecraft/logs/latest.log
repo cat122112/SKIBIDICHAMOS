@@ -958,3 +958,9 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [17:34:29] [Server thread/INFO]: chat.type.advancement.task
 [17:35:59] [Server thread/INFO]: death.attack.player
 [17:36:08] [Server thread/INFO]: chat.type.admin
+[17:37:13] [Server thread/INFO]: minecraft:glow_squid
+[17:37:30] [Server thread/INFO]: chat.type.advancement.task
+[17:40:16] [Server thread/INFO]: chat.type.admin
+[17:41:26] [Server thread/INFO]: minecraft:glow_squid
+[17:44:36] [Server thread/INFO]: IloveStiven_ lost connection: multiplayer.disconnect.generic
+[17:44:36] [Server thread/INFO]: multiplayer.player.left
